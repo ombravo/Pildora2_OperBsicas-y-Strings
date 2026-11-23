@@ -1,6 +1,6 @@
 # 🐍 Fundamentos de Python: Operaciones Básicas y Strings
 
-Este repositorio contiene el material teórico y práctico correspondiente a la **Píldora 2: Operaciones Básicas y Operaciones con Strings** (por Oscar Bravo). Está diseñado para aprender y reforzar los pilares básicos de la manipulación de datos numéricos, lógica booleana y cadenas de texto en Python.
+Este repositorio contiene el material teórico y práctico correspondiente a la **Píldora 2: Operaciones Básicas y Operaciones con Strings**. Está diseñado para aprender y reforzar los pilares básicos de la manipulación de datos numéricos, lógica booleana y cadenas de texto en Python.
 
 ---
 

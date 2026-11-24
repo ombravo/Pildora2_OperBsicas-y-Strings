@@ -6,16 +6,16 @@ Este repositorio contiene el material teórico y práctico correspondiente a la 
 
 ## 📂 Contenido del Repositorio
 
-El proyecto está organizado en tres recursos principales que combinan teoría visual, ejemplos ejecutables y ejercicios prácticos:
+El proyecto está organizado en cuatro recursos principales que combinan teoría visual, ejemplos ejecutables y ejercicios prácticos:
 
 1. **`00 Presentacion_Pildora_2 OperBasicasStrings OscarBravo.pptx`** (Presentación)
    * Material teórico y visual con diagramas conceptuales sobre operadores aritméticos, comparación, lógica booleana y manipulación avanzada de strings.
-2. **Cuaderno Interactivo (`.ipynb`)**
+2. **Cuaderno Interactivo (`Live Coding OperBasicaas y Scripts.ipynb`)**
    * Jupyter Notebook con celdas de código ejecutables que ilustran paso a paso los conceptos de la presentación, incluyendo ejemplos de errores comunes (`ZeroDivisionError`, `TypeError`) y cómo resolverlos.
 3. **`Soluciones.py`** (Script de Python)
    * Archivo con las soluciones comentadas a 4 ejercicios prácticos integradores que ponen a prueba todos los conceptos vistos en la sesión.
 4. **`ejercicios_refuerzo_python.ipynb`** (notebook)
-   * Jupyter Notebook con enun ciados de ejercicios y celdas para testar el código.
+   * Jupyter Notebook con enunciados de ejercicios y celdas para testar el código.
 
 ---
 

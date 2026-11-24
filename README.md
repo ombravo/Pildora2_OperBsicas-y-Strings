@@ -14,6 +14,8 @@ El proyecto está organizado en tres recursos principales que combinan teoría v
    * Jupyter Notebook con celdas de código ejecutables que ilustran paso a paso los conceptos de la presentación, incluyendo ejemplos de errores comunes (`ZeroDivisionError`, `TypeError`) y cómo resolverlos.
 3. **`Soluciones.py`** (Script de Python)
    * Archivo con las soluciones comentadas a 4 ejercicios prácticos integradores que ponen a prueba todos los conceptos vistos en la sesión.
+4. **'ejercicios_refuerzo_python.ipynb'** (notebook)
+   * Jupyter Notebook con enun ciados de ejercicios y celdas para testar el código.
 
 ---
 
